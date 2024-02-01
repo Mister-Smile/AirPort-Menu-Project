@@ -361,5 +361,5 @@ void The100(node *atterris)
 
 int main()
 {
-
+    //add some shit
 }
